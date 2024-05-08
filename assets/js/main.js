@@ -59,7 +59,6 @@ var quotes = [
 	"I do not fear death. What I fear is doing nothing and losing everything.",
 	"My life is nothing. Giving the future to those who want to see it...is everything.",
 	"My love will be with you forever, my dearest children.",
-	"Small communities grow great through harmony, great ones fall to pieces through <a href='https://discord.gg/974wtjjKQf'>discord</a>."
 ]
 var randomNumber = Math.floor(Math.random()*quotes.length)
 
