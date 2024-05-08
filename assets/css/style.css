@@ -63,15 +63,17 @@ body {
 	animation-fill-mode: both;
 }
 
+
+
 .pain {
 	width: 132px;
 	height: 132px;
 }
 
 .name {
-	position: relative;
-	left: 35%;
-	bottom: 56%;
+	position: absolute;
+	left: 6px;
+	bottom: 12px;
 }
 
 .subname {
